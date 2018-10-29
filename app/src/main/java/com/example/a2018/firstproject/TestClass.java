@@ -6,8 +6,7 @@ public class TestClass {
     public static void main(String []arg){
 
 
-        System.out.println("osama mahfouz");
-        System.out.println("mohamad mahfouz");
+        System.out.print("osama mahfouz");
 
 
     }
